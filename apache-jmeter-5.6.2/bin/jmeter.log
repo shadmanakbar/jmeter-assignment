@@ -1,0 +1,41 @@
+2023-10-22 19:28:39,497 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2023-10-22 19:28:39,530 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-10-22 19:28:39,532 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: Version 5.6.2
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: java.version=15.0.2
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: os.name=Mac OS X
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: os.arch=x86_64
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: os.version=10.16
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-10-22 19:28:39,544 INFO o.a.j.JMeter: java.awt.headless=null
+2023-10-22 19:28:39,545 INFO o.a.j.JMeter: Max memory     =2147483648
+2023-10-22 19:28:39,545 INFO o.a.j.JMeter: Available Processors =8
+2023-10-22 19:28:39,555 INFO o.a.j.JMeter: Default Locale=English (India)
+2023-10-22 19:28:39,555 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2023-10-22 19:28:39,555 INFO o.a.j.JMeter: JMeterHome=/Users/sutapamaji/Downloads/jmeter-assignment/apache-jmeter-5.6.2
+2023-10-22 19:28:39,555 INFO o.a.j.JMeter: user.dir  =/Users/sutapamaji/Downloads/jmeter-assignment/apache-jmeter-5.6.2/bin
+2023-10-22 19:28:39,555 INFO o.a.j.JMeter: PWD       =/Users/sutapamaji/Downloads/jmeter-assignment/apache-jmeter-5.6.2/bin
+2023-10-22 19:28:39,570 INFO o.a.j.JMeter: IP: 192.168.1.229 Name: Sutapas-Air.lan FullName: sutapas-air.lan
+2023-10-22 19:28:39,589 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-10-22 19:28:40,848 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-10-22 19:28:52,013 INFO o.a.j.s.FileServer: Default base='/Users/sutapamaji/Downloads/jmeter-assignment/apache-jmeter-5.6.2/bin'
+2023-10-22 19:29:08,405 INFO o.a.j.g.a.Load: Loading file: /Users/sutapamaji/Downloads/jmeter-assignment/playgrafana.jmx
+2023-10-22 19:29:08,406 INFO o.a.j.s.FileServer: Set new base='/Users/sutapamaji/Downloads/jmeter-assignment'
+2023-10-22 19:29:08,727 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-10-22 19:29:08,751 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-10-22 19:29:08,754 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-10-22 19:29:08,755 INFO o.a.j.s.SaveService: Loading file: /Users/sutapamaji/Downloads/jmeter-assignment/playgrafana.jmx
+2023-10-22 19:29:08,790 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2023-10-22 19:29:08,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-22 19:29:08,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-22 19:29:08,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-22 19:29:08,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-22 19:29:08,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-10-22 19:29:08,835 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-10-22 19:29:10,749 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-10-22 19:29:10,750 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2023-10-22 19:29:10,752 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-10-22 19:29:10,752 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-10-22 19:29:11,153 INFO o.a.j.s.FileServer: Set new base='/Users/sutapamaji/Downloads/jmeter-assignment'
